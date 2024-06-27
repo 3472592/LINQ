@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Versatile_LINQ/1.0.0": {
+        "runtime": {
+          "Versatile_LINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Versatile_LINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

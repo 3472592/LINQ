@@ -1,0 +1,15 @@
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\bin\Debug\net6.0\Versatile_LINQ.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\bin\Debug\net6.0\Versatile_LINQ.deps.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\bin\Debug\net6.0\Versatile_LINQ.runtimeconfig.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\bin\Debug\net6.0\Versatile_LINQ.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\bin\Debug\net6.0\Versatile_LINQ.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\obj\Debug\net6.0\Versatile_LINQ.csproj.AssemblyReference.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\obj\Debug\net6.0\Versatile_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\obj\Debug\net6.0\Versatile_LINQ.AssemblyInfoInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\obj\Debug\net6.0\Versatile_LINQ.AssemblyInfo.cs
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\obj\Debug\net6.0\Versatile_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\obj\Debug\net6.0\Versatile_LINQ.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\obj\Debug\net6.0\refint\Versatile_LINQ.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\obj\Debug\net6.0\Versatile_LINQ.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\obj\Debug\net6.0\Versatile_LINQ.genruntimeconfig.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Versatile_LINQ\obj\Debug\net6.0\ref\Versatile_LINQ.dll
